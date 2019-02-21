@@ -6,4 +6,4 @@ React/Redux
 
 ### Features
 Google OAuth <br>
-Creating, editing, and deleting streams via REST
+Creating, retrieving, editing, and deleting streams via REST

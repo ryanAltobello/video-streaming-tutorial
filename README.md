@@ -2,8 +2,10 @@ Video Streaming App created by tutorial lesson from [Modern React with Redux [20
 
 ### Technologies
 Javascript <br>
-React/Redux
+React/Redux <br>
+React Router
 
 ### Features
 Google OAuth <br>
+Video Streaming via [OBS Studio](https://obsproject.com/) <br>
 Creating, retrieving, editing, and deleting streams via REST
